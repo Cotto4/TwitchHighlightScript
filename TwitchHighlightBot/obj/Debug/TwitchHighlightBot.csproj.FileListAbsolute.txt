@@ -1,0 +1,12 @@
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\TwitchHighlightBot.exe.config
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\TwitchHighlightBot.exe
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\TwitchHighlightBot.pdb
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\RestSharp.dll
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\TwitchCSharp.dll
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\RestSharp.xml
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\bin\Debug\TwitchCSharp.pdb
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\obj\Debug\TwitchHighlightBot.csprojResolveAssemblyReference.cache
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\obj\Debug\TwitchHighlightBot.exe
+c:\users\cody\documents\visual studio 2015\Projects\TwitchHighlightBot\TwitchHighlightBot\obj\Debug\TwitchHighlightBot.pdb
